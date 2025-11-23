@@ -1,0 +1,15 @@
+# Core libraries for the Gradio application interface
+gradio
+
+# Gemini API Client (replaces Groq for LLM/Vision)
+google-genai
+
+# Speech-to-Text (STT) and Text-to-Speech (TTS) Free Libraries
+# Used in voice_of_the_patient.py and voice_of_the_doctor.py
+gtts 
+SpeechRecognition
+pydub 
+
+# Utility for determining MIME types for image uploads
+# Used in brain_of_the_doctor.py
+mimetypes
