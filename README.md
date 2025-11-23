@@ -1,4 +1,4 @@
-# AI Doctor 2.0: Voice and Vision Medical Assistant
+# AI Doctor 1.0: Voice and Vision Medical Assistant
 
 This project is a Gradio-based application that simulates an AI medical assistant capable of performing basic consultations using voice input and image analysis. The application uses a multimodal Large Language Model (LLM) to analyze medical images (e.g., a rash or injury) and provide a concise, doctor-like response via text and speech.
 
@@ -28,7 +28,7 @@ The `pydub` library, which is used for audio handling, requires the system-level
 
 ### 3. Install Python Dependencies
 
-Navigate to your project directory (`ai-doctor-2.0-voice-and-vision-main`) and run the following command using the `requirements.txt` file provided:
+Navigate to your project directory (`ai-doctor1.0`) and run the following command using the `requirements.txt` file provided:
 
 ```bash
 pip install -r requirements.txt
